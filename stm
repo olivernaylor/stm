@@ -1,0 +1,131 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metallurgy Course Notes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        section {
+            margin: 2rem;
+        }
+        h1, h2, h3 {
+            color: #004080;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 1rem;
+            border: 1px solid #ddd;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Metallurgy Course Notes</h1>
+    </header>
+    <main>
+        <section id="aluminium-alloys">
+            <h2>Aluminium Alloys</h2>
+            <pre>
+                Aluminium alloys in aerospace applications:
+                - Account for 60%-80% of airframe weight.
+                - Advantages: moderate cost, high strength, ductility, and more.
+                - Disadvantages: softens above 150°C, stress corrosion, and galvanic corrosion.
+
+                Aluminium alloy types:
+                - Casting alloys: Used in as-cast conditions.
+                - Wrought alloys: Includes non-age-hardenable and age-hardenable alloys.
+
+                Age-hardening process:
+                1. Solution treatment: Dissolve intermetallic precipitates.
+                2. Quenching: Rapid cooling to produce a super-saturated solid solution.
+                3. Ageing: Precipitation of strengthening phases.
+            </pre>
+        </section>
+        <section id="manufacturing-techniques">
+            <h2>Manufacturing Techniques</h2>
+            <pre>
+                Sheet Metal Forming:
+                - Common in light aircraft.
+                - Processes: Cutting, drilling, punching, folding.
+
+                Joining Techniques:
+                - Mechanical fastening: Rivets, bolts.
+                - Adhesive bonding: Uniform stress distribution.
+                - Surface treatment: Removes contamination, increases bond strength.
+            </pre>
+        </section>
+        <section id="crystal-structures">
+            <h2>Crystal Structures</h2>
+            <pre>
+                Types of Crystal Structures:
+                - BCC: 48 slip planes, good strain hardening.
+                - FCC: 12 slip planes, ductile.
+                - HCP: 3 slip planes, limited ductility.
+
+                Grain Boundaries:
+                - Impede dislocation motion, affecting material properties.
+            </pre>
+        </section>
+        <section id="strengthening-mechanisms">
+            <h2>Strengthening Mechanisms</h2>
+            <pre>
+                Strengthening Techniques:
+                - Strain hardening: Increases dislocation density.
+                - Grain boundary strengthening: Higher grain boundary density increases strength.
+                - Solid solution strengthening: Distorts lattice to resist dislocation movement.
+                - Precipitation hardening: Formation of precipitates that block dislocations.
+            </pre>
+        </section>
+        <section id="titanium-alloys">
+            <h2>Titanium Alloys</h2>
+            <pre>
+                Applications:
+                - Airframes, jet engines, landing gear.
+                - Advantages: High strength, fatigue life, corrosion resistance.
+                - Disadvantages: High cost, low specific stiffness.
+
+                Phases:
+                - Alpha: HCP structure, good creep resistance.
+                - Beta: BCC structure, heat-treatable.
+            </pre>
+        </section>
+        <section id="steel-alloys">
+            <h2>Steel Alloys</h2>
+            <pre>
+                Applications:
+                - Safety-critical aerospace components like landing gear.
+                - Types: Mild steel, high-strength low-alloy steel, stainless steel.
+
+                Phases:
+                - Austenite: FCC structure, high temperature.
+                - Ferrite: BCC structure, ductile.
+                - Cementite: Hard and brittle.
+            </pre>
+        </section>
+        <section id="phase-diagrams">
+            <h2>Phase Diagrams</h2>
+            <pre>
+                - Binary systems: Cu-Ni (isomorphous), Cu-Ag (eutectic).
+                - Terms:
+                  * Liquidus: Separates liquid from solid-liquid phases.
+                  * Solidus: Separates solid from solid-liquid phases.
+                  * Eutectic reaction: Liquid transforms to two solid phases.
+            </pre>
+        </section>
+    </main>
+</body>
+</html>
+
